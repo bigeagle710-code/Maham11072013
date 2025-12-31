@@ -1,0 +1,15 @@
+< html>
+<body>
+<h2>this is a form </h2>
+<form>
+ <label> choose a car : <label>
+< select name ="cars" id="cars"
+<option value = audi >Audi</option>
+<option value = bmw >BMW</option>
+<option value = ferari >Ferari</option>
+<option value = mercedes >Mercedes</option>
+<option value = mustang >Mustang</option>
+</select>
+</form>
+</body>
+</html>
